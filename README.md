@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
 </menu>
 ```
 ## OUTPUT
-![image](https://github.com/Jayalakshm1/menuinandroid/assets/130430542/69f2eb61-7a4e-40b5-9be8-ec49d584b82c)
-![image](https://github.com/Jayalakshm1/menuinandroid/assets/130430542/c8443d53-a09b-4db1-aa61-b63448c57d08)
+![Screenshot 2024-05-06 084729](https://github.com/Jayalakshm1/menuinandroid/assets/130430542/1c2414db-0c97-4ea1-9483-eb94638a3c8b)
+![Screenshot 2024-05-06 084751](https://github.com/Jayalakshm1/menuinandroid/assets/130430542/8498ead9-8a3e-413a-98eb-559c6ff1d7f1)
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
